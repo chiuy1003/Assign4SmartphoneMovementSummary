@@ -14,7 +14,8 @@ Summarize the data captured by a Smartphone per subject/activity, where a subjec
 5.  STANDING
 6.  LAYING
 
-** Output dataset description and how they were calculated can be found in the CodeBook.md file**
+**Output dataset description and how they were calculated can be found in the CodeBook.md file here:
+https://github.com/chiuy1003/Assign4SmartphoneMovementSummary/blob/master/CodeBook.md**
 
 ## Instructions:
 
