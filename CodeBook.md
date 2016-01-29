@@ -10,8 +10,7 @@
 *  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 *  The source data details can be found in README.txt and features_info.txt under the root directory "UCI HAR Dataset"
 
-
-## Codebook
+## Codebook:
 
 ### Factor Data
 *  "activityType" - Activity that subject was engaged in during smartphone movement measurement. Value is one of : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
